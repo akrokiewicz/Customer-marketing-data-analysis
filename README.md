@@ -23,4 +23,4 @@ Content:
   - Advertising campaign outcomes
   - Global company reach
 
-For now code is not descripted. This will be updated in the future.
+Please check out the final html report. Some of objects are interactive - you can zoom them and use tools in upper right corner to select them. 
